@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="paymentexample.PaymentServiceSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-31T12:41:29" hostname="ATLANTISPC-1154" time="0.013">
+  <properties/>
+  <testcase name="throw an exception for invalid User" classname="paymentexample.PaymentServiceSpec" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jul 31, 2019 8:41:29 AM org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+INFO: Configuring com.athaydes.spockframework.report.SpockReportExtension
+Jul 31, 2019 8:41:29 AM org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+INFO: SpockReports config loaded: [com.athaydes.spockframework.report.template.TemplateReportCreator.reportFileExtension:md, com.athaydes.spockframework.report.template.TemplateReportCreator.specTemplateFile:/templateReportCreator/spec-template.md, com.athaydes.spockframework.report.IReportCreator:com.athaydes.spockframework.report.internal.HtmlReportCreator, com.athaydes.spockframework.report.template.TemplateReportCreator.summaryTemplateFile:/templateReportCreator/summary-template.md, com.athaydes.spockframework.report.internal.HtmlReportCreator.summaryReportCss:spock-summary-report.css, com.athaydes.spockframework.report.template.TemplateReportCreator.summaryFileName:summary.md, com.athaydes.spockframework.report.internal.HtmlReportCreator.featureReportCss:spock-feature-report.css, com.athaydes.spockframework.report.hideEmptyBlocks:false, com.athaydes.spockframework.report.outputDir:build/spock-reports]
+Jul 31, 2019 8:41:29 AM org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+INFO: Loading settings for reportCreator of type com.athaydes.spockframework.report.internal.HtmlReportCreator
+]]></system-err>
+</testsuite>
